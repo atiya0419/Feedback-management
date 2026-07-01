@@ -9,7 +9,7 @@ A web-based feedback management system where managers can provide feedback to em
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yashasp25/DPDzero-assignment.git
+git clone https://github.com/atiya0419/DPDzero-assignment.git
 ```
 
 ### 2. Install Dependencies
